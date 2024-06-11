@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AICurious | Let&#39;s power your next project with AI</title>
-    <link>https://aicurious.io/tags/</link>
+    <link>https://tiny-nasturtium-c11539.netlify.app/tags/</link>
     <description>Recent content in Tags on AICurious | Let&#39;s power your next project with AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://aicurious.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tiny-nasturtium-c11539.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

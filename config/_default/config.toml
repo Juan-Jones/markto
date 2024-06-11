@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://aicurious.io"
+baseURL = "https://tiny-nasturtium-c11539.netlify.app"
 title = "AICurious | Let's power your next project with AI"
 theme = "geeky-curious"
 languageName = "En"

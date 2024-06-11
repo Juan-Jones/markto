@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AICurious | Let&#39;s power your next project with AI</title>
+    <link>https://aicurious.io/</link>
+    <description>Recent content on AICurious | Let&#39;s power your next project with AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://aicurious.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://aicurious.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aicurious.io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About The Author</title>
+      <link>https://aicurious.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aicurious.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor.</description>
+    </item>
+    <item>
+      <title>Let&#39;s, Talk About You</title>
+      <link>https://aicurious.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aicurious.io/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search Result</title>
+      <link>https://aicurious.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aicurious.io/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
